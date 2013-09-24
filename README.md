@@ -1,4 +1,7 @@
 This is release of some older project of mine.
+
+I used Netbeans and the NBAndroid plugin to develop this.
+
 Daniel Kurashige-Gollub, 2013-09-24
 
 ######
