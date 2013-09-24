@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Game Of Life</string>
+    <string name="generation">Generation</string>
+    <string name="dead">dead</string>
+    <string name="alive">alive</string>
+    <string name="btnStart">Start</string>
+    <string name="btnStop">Stop</string>
+    <string name="btnReset">Reset</string>
+</resources>
