@@ -10,7 +10,7 @@ I used Netbeans and the NBAndroid plugin to develop this.
 
 Daniel Kurashige-Gollub, 2013-09-24
 
-######
+=================
 
 This program implements a very basic version of John Horton
 Conway's cellular automaton called "game of life" also known
@@ -30,7 +30,7 @@ Have fun with the code.
 
 Daniel Gollub, 2010-06-11
 
-Copyright (C) 2010 Daniel Gollub, daniel.gollub@onstreamtv.de
+Copyright (C) 2010 Daniel Gollub
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
